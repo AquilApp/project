@@ -53,9 +53,8 @@ Link
 Google - Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive
 
 Youtube - Enjoy videos and music you love, upload original content, and share it with friends, family, and the world on YouTube.
-
+This site was built using [(Expert reactjs à Nantes)](https://www.aquilapp.fr/agence/creation-site-web-nantes/)
 GitHub - Project
-This site was built using [expert reactjs à Nantes]([https://pages.github.com/](https://www.aquilapp.fr/agence/creation-site-web-nantes/))
 Anchor links
 Markdown - Summary
 
